@@ -1,38 +1,34 @@
-<<<<<<< HEAD
-# דשבורד מעקב מניות
+# Stock Dashboard | דשבורד מעקב מניות
 
-דשבורד אינטראקטיבי למעקב אחר מניות בזמן אמת באמצעות Finnhub API.
+Real-time stock dashboard using Finnhub API
+דשבורד אינטראקטיבי למעקב אחר מניות בזמן אמת באמצעות Finnhub API
 
-## תכונות
-- מעקב אחר מחירי מניות בזמן אמת
-- מידע על פרופיל החברה
-- נתונים פיננסיים
-- המלצות אנליסטים
-- חדשות אחרונות
+## Features | תכונות
+- Real-time stock tracking | מעקב אחר מחירי מניות בזמן אמת
+- Company profile information | מידע על פרופיל החברה
+- Financial data | נתונים פיננסיים
+- Analyst recommendations | המלצות אנליסטים
+- Latest news | חדשות אחרונות
 
-## התקנה
+## Installation | התקנה
 
-1. התקן את החבילות הנדרשות:
+1. Install required packages | התקן את החבילות הנדרשות:
 ```bash
 pip install -r requirements.txt
 ```
 
-2. הרץ את האפליקציה:
+2. Run the application | הרץ את האפליקציה:
 ```bash
 streamlit run dashboard.py
 ```
 
-## שימוש
-1. הזן סימבול מניה (למשל: AAPL, MSFT, GOOGL)
-2. צפה במידע בזמן אמת
-3. עקוב אחר המלצות והחדשות
+## Usage | שימוש
+1. Enter a stock symbol (e.g., AAPL, MSFT, GOOGL) | הזן סימבול מניה
+2. View real-time information | צפה במידע בזמן אמת
+3. Follow recommendations and news | עקוב אחר המלצות וחדשות
 
-## טכנולוגיות
+## Technologies | טכנולוגיות
 - Python
 - Streamlit
 - Finnhub API
-- Plotly 
-=======
-# stock_dashboard
-Real-time stock dashboard using Finnhub API
->>>>>>> d4de70c272de3646798022f89bb6ee0395cdd138
+- Plotly
