@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # דשבורד מעקב מניות
 
 דשבורד אינטראקטיבי למעקב אחר מניות בזמן אמת באמצעות Finnhub API.
@@ -31,3 +32,7 @@ streamlit run dashboard.py
 - Streamlit
 - Finnhub API
 - Plotly 
+=======
+# stock_dashboard
+Real-time stock dashboard using Finnhub API
+>>>>>>> d4de70c272de3646798022f89bb6ee0395cdd138
